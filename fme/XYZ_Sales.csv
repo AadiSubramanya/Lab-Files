@@ -1,0 +1,21 @@
+Date,Product Name,Units Sold,Revenue,Region,Discount Offered (%),Salesperson
+05/01/2026,Laptop,12,144000,North,10,Asha
+08/01/2026,Tablet,45,22500,South,5,Ravi
+10/01/2026,Phone,30,45000,East,8,Neha
+12/01/2026,Laptop,18,108000,West,12,Kiran
+15/01/2026,Phone,40,32000,North,7,Priya
+18/01/2026,Laptop,22,77000,South,10,Arjun
+21/01/2026,Tablet,35,42000,East,6,Meera
+24/01/2026,Laptop,15,90000,West,15,Ravi
+27/01/2026,Tablet,10,85000,North,5,Asha
+01/02/2026,Laptop,20,400000,South,8,Kiran
+03/02/2026,Laptop,16,224000,East,10,Neha
+06/02/2026,Tablet,9,63000,West,5,Priya
+09/02/2026,Phone,14,70000,North,12,Arjun
+12/02/2026,Laptop,28,84000,South,7,Meera
+15/02/2026,Phone,6,180000,East,15,Asha
+18/02/2026,Laptop,11,495000,West,10,Ravi
+21/02/2026,Tablet,50,50000,North,5,Neha
+24/02/2026,Laptop,26,52000,South,9,Kiran
+27/02/2026,Tablet,24,144000,East,11,Priya
+02/03/2026,Laptop,8,280000,West,13,Arjun
